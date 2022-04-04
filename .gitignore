@@ -1,0 +1,8 @@
+.venv
+.pytest_cache
+.DS_Store
+test-results
+site/
+assets/
+htmlcov
+coverage.xml

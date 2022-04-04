@@ -1,0 +1,13 @@
+# Install test dependencies
+black
+flake8
+isort
+pytest
+pytest-runner
+pytest-flake8
+pytest-black
+pytest-cov
+pytest-xdist
+pre-commit
+mkdocs
+mock

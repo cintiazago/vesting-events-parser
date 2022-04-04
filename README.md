@@ -17,7 +17,7 @@ It was used the generator concept that Python offers to read the file without cr
 ### Application flow
 
 <h1 align="center">
-    <img alt="Architecture" title="#vesting" src="assets/images/architecture.png"/>
+    <img alt="Architecture" title="#vesting" src=".github/architecture.png"/>
 </h1>
 
 > ## Requirements
